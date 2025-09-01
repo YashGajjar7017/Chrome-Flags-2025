@@ -4,7 +4,7 @@ This is list of chrome flags you should be enble &amp; should better perfermoce 
 # 🚀 Chrome Flags Guide  
 
 <p align="center">
-  <img src="assets/banner.png" alt="Chrome Flags Banner" width="800">
+  <img src="https://github.com/YashGajjar7017/Chrome-Flags-2025/blob/main/download.jpg" alt="Chrome Flags Banner" width="800">
 </p>
 
 A curated collection of **useful Chrome Flags** that help you unlock hidden features, boost performance, and customize your browsing experience.  
@@ -35,14 +35,7 @@ You can access them by typing:
 | **Experimental QUIC Protocol** | Faster, secure connections | ✅ Enabled |
 | **GPU Rasterization** | Faster page rendering | ✅ Enabled |
 | **Reader Mode** | Simplified web pages | ✅ Enabled |
-
----
-
-## 🖼 Screenshots  
-
-<p align="center">
-  <img src="assets/chrome-flags-example.png" alt="Chrome Flags Example" width="600">
-</p>
+| **Zero-Copy-raister** | Load faster in Gpu memmory | ✅ Enabled |
 
 ---
 
@@ -60,14 +53,6 @@ You can access them by typing:
 - Use the **search box** in `chrome://flags` for quick navigation  
 - Some flags may be removed or replaced in future Chrome versions  
 - Use flags wisely—enabling too many can cause instability  
-
----
-
-## 📸 Preview  
-
-<p align="center">
-  <img src="assets/preview.png" alt="Preview" width="700">
-</p>
 
 ---
 
